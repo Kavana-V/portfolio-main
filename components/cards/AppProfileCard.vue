@@ -11,7 +11,7 @@
     <h2
       class="text-xl md:text-2xl font-bold text-slate-900 dark:text-slate-100"
     >
-      Dawit U
+      Kavana V
     </h2>
     <h2
       class="text-lg md:text-xl font-medium text-slate-700 dark:text-slate-400"
