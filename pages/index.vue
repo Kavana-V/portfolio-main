@@ -3,7 +3,7 @@
   <main id="home" class="[&>*]:mb-6 last:[&>*]:mb-0">
     <!-- Introduction -->
     <section>
-      <h1 class="font-semibold text-2xl mb-6">Hi, my name is Dawit.</h1>
+      <h1 class="font-semibold text-2xl mb-6">Hi, my name is Kavana V.</h1>
       <p>
         I am a results-oriented developer experienced in software development
         through professional freelance work, internships, and open-source
